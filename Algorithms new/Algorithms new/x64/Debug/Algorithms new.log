@@ -1,0 +1,9 @@
+﻿  Graph.cpp
+  Graph.h
+  Graph1.cpp
+C:\Users\shire\OneDrive\Documents\GitHub\Algorithms-Project\Algorithms new\Algorithms new\Graph1.cpp(22,52): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Graph2.cpp
+  Main.cpp
+  Generating Code...
+x64\Debug\Graph.obj : warning LNK4042: object specified more than once; extras ignored
+  Algorithms new.vcxproj -> C:\Users\shire\OneDrive\Documents\GitHub\Algorithms-Project\Algorithms new\x64\Debug\Algorithms new.exe
